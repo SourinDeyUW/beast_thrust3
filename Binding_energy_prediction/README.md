@@ -1,6 +1,4 @@
-The following part is essentital to compile the e3nn codes. This ist aken from 
-
-This tutorial is presented through an interactive Jupyter notebook. We invite you to follow along with the code examples through either of the two options below:
+The following part is essentital to compile the e3nn codes. This is taken from 
 
 https://github.com/zhantaochen/phonondos_e3nn
 
