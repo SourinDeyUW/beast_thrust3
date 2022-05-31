@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Ni26MoH
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.33150949
+_cell_length_b   7.33150889
+_cell_length_c   21.99719400
+_cell_angle_alpha   90.00513446
+_cell_angle_beta   93.17934504
+_cell_angle_gamma   119.99848735
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ni26MoH
+_chemical_formula_sum   'Ni26 Mo1 H1'
+_cell_volume   1021.87426739
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ni  Ni0  1  0.09090900  0.04545500  0.40909100  1
+  Ni  Ni1  1  0.09090900  0.37878800  0.40909100  1
+  Ni  Ni2  1  0.09090900  0.71212100  0.40909100  1
+  Ni  Ni3  1  0.42424200  0.04545500  0.40909100  1
+  Ni  Ni4  1  0.42424200  0.37878800  0.40909100  1
+  Ni  Ni5  1  0.42424200  0.71212100  0.40909100  1
+  Ni  Ni6  1  0.75757600  0.04545500  0.40909100  1
+  Ni  Ni7  1  0.75757600  0.37878800  0.40909100  1
+  Ni  Ni8  1  0.75757600  0.71212100  0.40909100  1
+  Ni  Ni9  1  0.33377770  0.16703312  0.50097224  1
+  Ni  Ni10  1  0.33311503  0.49998039  0.50152594  1
+  Ni  Ni11  1  0.33377503  0.83360218  0.50095011  1
+  Ni  Ni12  1  0.66753361  0.16720671  0.49993555  1
+  Ni  Ni13  1  0.66791084  0.49942550  0.50084606  1
+  Ni  Ni14  1  0.66788557  0.83527229  0.50079311  1
+  Ni  Ni15  1  0.99989300  0.16722400  0.49951700  1
+  Ni  Ni16  1  0.99997800  0.49974000  0.49985100  1
+  Ni  Ni17  1  0.00036951  0.83356749  0.50103882  1
+  Ni  Ni18  1  0.24043355  0.28517215  0.59230342  1
+  Ni  Ni19  1  0.24058610  0.62213434  0.59238034  1
+  Ni  Ni20  1  0.24295812  0.95488433  0.59235942  1
+  Ni  Ni21  1  0.57569951  0.28551637  0.59225534  1
+  Ni  Ni22  1  0.57567335  0.95674148  0.59224071  1
+  Ni  Ni23  1  0.90942340  0.28798955  0.59134986  1
+  Ni  Ni24  1  0.91183052  0.62207114  0.59233968  1
+  Ni  Ni25  1  0.91177511  0.95662778  0.59225370  1
+  Mo  Mo26  1  0.57836696  0.62255016  0.59755104  1
+  H  H27  1  0.57268079  0.61963694  0.67629218  1

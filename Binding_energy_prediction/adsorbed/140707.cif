@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Ag27H
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.60496519
+_cell_length_b   8.60496881
+_cell_length_c   23.47925300
+_cell_angle_alpha   90.00483404
+_cell_angle_beta   93.49762144
+_cell_angle_gamma   119.99565775
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ag27H
+_chemical_formula_sum   'Ag27 H1'
+_cell_volume   1501.93330901
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ag  Ag0  1  0.20000000  0.26666700  0.40000000  1
+  Ag  Ag1  1  0.20000000  0.60000000  0.40000000  1
+  Ag  Ag2  1  0.20000000  0.93333300  0.40000000  1
+  Ag  Ag3  1  0.53333300  0.26666700  0.40000000  1
+  Ag  Ag4  1  0.53333300  0.60000000  0.40000000  1
+  Ag  Ag5  1  0.53333300  0.93333300  0.40000000  1
+  Ag  Ag6  1  0.86666700  0.26666700  0.40000000  1
+  Ag  Ag7  1  0.86666700  0.60000000  0.40000000  1
+  Ag  Ag8  1  0.86666700  0.93333300  0.40000000  1
+  Ag  Ag9  1  0.33469683  0.16858442  0.50325212  1
+  Ag  Ag10  1  0.33469475  0.49946627  0.50325587  1
+  Ag  Ag11  1  0.33349405  0.83342667  0.50178603  1
+  Ag  Ag12  1  0.66689685  0.16703004  0.50216621  1
+  Ag  Ag13  1  0.66510926  0.49923350  0.50355512  1
+  Ag  Ag14  1  0.66690530  0.83322352  0.50216505  1
+  Ag  Ag15  1  0.00071076  0.16702220  0.50222110  1
+  Ag  Ag16  1  0.00027324  0.50023006  0.50175267  1
+  Ag  Ag17  1  0.00028318  0.83339000  0.50175374  1
+  Ag  Ag18  1  0.13190389  0.06515604  0.60392835  1
+  Ag  Ag19  1  0.13190987  0.40011509  0.60392391  1
+  Ag  Ag20  1  0.13380980  0.73360077  0.60352876  1
+  Ag  Ag21  1  0.46767908  0.06533815  0.60391575  1
+  Ag  Ag22  1  0.46780540  0.40057932  0.60783724  1
+  Ag  Ag23  1  0.46766552  0.73569893  0.60390654  1
+  Ag  Ag24  1  0.80067104  0.06700044  0.60430502  1
+  Ag  Ag25  1  0.80231985  0.40006685  0.60402467  1
+  Ag  Ag26  1  0.80231202  0.73560730  0.60402290  1
+  H  H27  1  0.46974830  0.40154175  0.68022386  1

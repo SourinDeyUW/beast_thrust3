@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Ni27O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.33150949
+_cell_length_b   7.33150889
+_cell_length_c   21.99719400
+_cell_angle_alpha   90.00513446
+_cell_angle_beta   93.17934504
+_cell_angle_gamma   119.99848735
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ni27O
+_chemical_formula_sum   'Ni27 O1'
+_cell_volume   1021.87426739
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ni  Ni0  1  0.09090900  0.04545500  0.40909100  1
+  Ni  Ni1  1  0.09090900  0.37878800  0.40909100  1
+  Ni  Ni2  1  0.09090900  0.71212100  0.40909100  1
+  Ni  Ni3  1  0.42424200  0.04545500  0.40909100  1
+  Ni  Ni4  1  0.42424200  0.37878800  0.40909100  1
+  Ni  Ni5  1  0.42424200  0.71212100  0.40909100  1
+  Ni  Ni6  1  0.75757600  0.04545500  0.40909100  1
+  Ni  Ni7  1  0.75757600  0.37878800  0.40909100  1
+  Ni  Ni8  1  0.75757600  0.71212100  0.40909100  1
+  Ni  Ni9  1  0.33155534  0.16675469  0.50097599  1
+  Ni  Ni10  1  0.33225291  0.49928715  0.49945176  1
+  Ni  Ni11  1  0.33130414  0.83084975  0.50094009  1
+  Ni  Ni12  1  0.66542539  0.16564856  0.49928957  1
+  Ni  Ni13  1  0.66557277  0.50075312  0.50094325  1
+  Ni  Ni14  1  0.66574748  0.83099592  0.50090762  1
+  Ni  Ni15  1  0.00108453  0.16655723  0.50097311  1
+  Ni  Ni16  1  0.99998500  0.49999800  0.50003300  1
+  Ni  Ni17  1  0.99991600  0.83301700  0.50012700  1
+  Ni  Ni18  1  0.23955124  0.28234463  0.59600968  1
+  Ni  Ni19  1  0.23920864  0.62319129  0.59579885  1
+  Ni  Ni20  1  0.24013024  0.95311013  0.59153090  1
+  Ni  Ni21  1  0.57656511  0.28473881  0.59084285  1
+  Ni  Ni22  1  0.58041517  0.62322813  0.59592236  1
+  Ni  Ni23  1  0.57650347  0.95752099  0.59081546  1
+  Ni  Ni24  1  0.90370179  0.28499633  0.59069266  1
+  Ni  Ni25  1  0.90841238  0.62135965  0.59132812  1
+  Ni  Ni26  1  0.90841135  0.95303381  0.59147998  1
+  O  O27  1  0.36449817  0.51564857  0.64735428  1

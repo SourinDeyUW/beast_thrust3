@@ -1,0 +1,53 @@
+# generated using pymatgen
+data_Pt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.30563200
+_cell_length_b   8.30548099
+_cell_length_c   22.66204900
+_cell_angle_alpha   86.50247764
+_cell_angle_beta   89.99826160
+_cell_angle_gamma   119.99933191
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pt
+_chemical_formula_sum   Pt27
+_cell_volume   1350.48407360
+_cell_formula_units_Z   27
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pt  Pt0  1  0.06666700  0.13333400  0.40000000  1
+  Pt  Pt1  1  0.06666700  0.46666700  0.40000000  1
+  Pt  Pt2  1  0.06666700  0.80000100  0.40000000  1
+  Pt  Pt3  1  0.40000000  0.13333400  0.40000000  1
+  Pt  Pt4  1  0.40000000  0.46666700  0.40000000  1
+  Pt  Pt5  1  0.40000000  0.80000100  0.40000000  1
+  Pt  Pt6  1  0.73333400  0.13333400  0.40000000  1
+  Pt  Pt7  1  0.73333400  0.46666700  0.40000000  1
+  Pt  Pt8  1  0.73333400  0.80000100  0.40000000  1
+  Pt  Pt9  1  0.16639158  0.99945311  0.50251794  1
+  Pt  Pt10  1  0.16639234  0.33278604  0.50251780  1
+  Pt  Pt11  1  0.16639188  0.66611941  0.50251756  1
+  Pt  Pt12  1  0.49972267  0.99945158  0.50251754  1
+  Pt  Pt13  1  0.49972241  0.33278525  0.50251781  1
+  Pt  Pt14  1  0.49972286  0.66611787  0.50251757  1
+  Pt  Pt15  1  0.83305714  0.99945176  0.50251731  1
+  Pt  Pt16  1  0.83305693  0.33278548  0.50251714  1
+  Pt  Pt17  1  0.83305647  0.66611882  0.50251728  1
+  Pt  Pt18  1  0.26614364  0.19895688  0.60492799  1
+  Pt  Pt19  1  0.26614373  0.53228986  0.60492736  1
+  Pt  Pt20  1  0.26614345  0.86562353  0.60492697  1
+  Pt  Pt21  1  0.59947635  0.19895711  0.60492562  1
+  Pt  Pt22  1  0.59947598  0.53228957  0.60492669  1
+  Pt  Pt23  1  0.59947628  0.86562302  0.60492577  1
+  Pt  Pt24  1  0.93281103  0.19895754  0.60492482  1
+  Pt  Pt25  1  0.93281047  0.53229064  0.60492481  1
+  Pt  Pt26  1  0.93281048  0.86562373  0.60492558  1

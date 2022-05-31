@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_HRh27
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.03672266
+_cell_length_b   8.03669826
+_cell_length_c   21.92791400
+_cell_angle_alpha   86.49772645
+_cell_angle_beta   86.49795137
+_cell_angle_gamma   59.99991575
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HRh27
+_chemical_formula_sum   'H1 Rh27'
+_cell_volume   1223.49202859
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rh  Rh0  1  0.06666700  0.06666700  0.40000000  1
+  Rh  Rh1  1  0.06666700  0.40000000  0.40000000  1
+  Rh  Rh2  1  0.06666700  0.73333300  0.40000000  1
+  Rh  Rh3  1  0.40000000  0.06666700  0.40000000  1
+  Rh  Rh4  1  0.40000000  0.40000000  0.40000000  1
+  Rh  Rh5  1  0.40000000  0.73333300  0.40000000  1
+  Rh  Rh6  1  0.73333300  0.06666700  0.40000000  1
+  Rh  Rh7  1  0.73333300  0.40000000  0.40000000  1
+  Rh  Rh8  1  0.73333300  0.73333300  0.40000000  1
+  Rh  Rh9  1  0.16689671  0.16689474  0.49885173  1
+  Rh  Rh10  1  0.16696547  0.50026144  0.49884132  1
+  Rh  Rh11  1  0.16741280  0.83336368  0.49853343  1
+  Rh  Rh12  1  0.50026355  0.16696340  0.49884133  1
+  Rh  Rh13  1  0.50110707  0.50110494  0.49869475  1
+  Rh  Rh14  1  0.50102304  0.83202059  0.49861461  1
+  Rh  Rh15  1  0.83336571  0.16741072  0.49853343  1
+  Rh  Rh16  1  0.83202260  0.50102100  0.49861462  1
+  Rh  Rh17  1  0.83336275  0.83336074  0.49851929  1
+  Rh  Rh18  1  0.26717062  0.26716622  0.59732623  1
+  Rh  Rh19  1  0.26664084  0.60089770  0.59708468  1
+  Rh  Rh20  1  0.26645170  0.93421383  0.59709614  1
+  Rh  Rh21  1  0.60090209  0.26663650  0.59708471  1
+  Rh  Rh22  1  0.60051418  0.60050986  0.60020557  1
+  Rh  Rh23  1  0.60081580  0.93447694  0.59708139  1
+  Rh  Rh24  1  0.93421814  0.26644737  0.59709614  1
+  Rh  Rh25  1  0.93448114  0.60081147  0.59708138  1
+  Rh  Rh26  1  0.93386033  0.93385594  0.59690433  1
+  H  H27  1  0.59845473  0.59845198  0.67220496  1

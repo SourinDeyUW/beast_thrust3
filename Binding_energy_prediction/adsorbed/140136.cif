@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_HPtAu26
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.57606266
+_cell_length_b   8.57606266
+_cell_length_c   23.65109797
+_cell_angle_alpha   88.12641697
+_cell_angle_beta   88.12641697
+_cell_angle_gamma   63.40130658
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HPtAu26
+_chemical_formula_sum   'H1 Pt1 Au26'
+_cell_volume   1554.26011481
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Au  Au0  1  0.20357368  0.20357371  0.60613617  1
+  Au  Au1  1  0.20667883  0.53594134  0.60619057  1
+  Au  Au2  1  0.20749317  0.86820213  0.60628721  1
+  Au  Au3  1  0.53594134  0.20667883  0.60619058  1
+  Au  Au4  1  0.53830971  0.87158627  0.60655357  1
+  Au  Au5  1  0.86820208  0.20749324  0.60628722  1
+  Au  Au6  1  0.87158624  0.53830976  0.60655357  1
+  Au  Au7  1  0.87213487  0.87213491  0.60612775  1
+  Au  Au8  1  0.00039492  0.33351737  0.50353348  1
+  Au  Au9  1  0.00046360  0.66743084  0.50386382  1
+  Au  Au10  1  0.00041498  0.00041504  0.50408450  1
+  Au  Au11  1  0.33296519  0.33296521  0.50333669  1
+  Au  Au12  1  0.33592887  0.66534272  0.50303780  1
+  Au  Au13  1  0.33351737  0.00039493  0.50353349  1
+  Au  Au14  1  0.66534267  0.33592894  0.50303780  1
+  Au  Au15  1  0.66664051  0.66664058  0.50390594  1
+  Au  Au16  1  0.66743077  0.00046362  0.50386382  1
+  Au  Au17  1  0.13333300  0.13333300  0.40000000  1
+  Au  Au18  1  0.13333300  0.46666600  0.40000000  1
+  Au  Au19  1  0.13333300  0.80000000  0.40000000  1
+  Au  Au20  1  0.46666600  0.13333300  0.40000000  1
+  Au  Au21  1  0.46666700  0.46666700  0.40000000  1
+  Au  Au22  1  0.46666700  0.80000000  0.40000000  1
+  Au  Au23  1  0.80000000  0.13333300  0.40000000  1
+  Au  Au24  1  0.80000000  0.46666700  0.40000000  1
+  Au  Au25  1  0.80000000  0.80000000  0.40000000  1
+  Pt  Pt26  1  0.53910054  0.53910059  0.60280864  1
+  H  H27  1  0.53415524  0.53415525  0.66912531  1

@@ -1,0 +1,53 @@
+# generated using pymatgen
+data_Cu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.56931204
+_cell_length_b   6.17958932
+_cell_length_c   26.20755800
+_cell_angle_alpha   89.93253853
+_cell_angle_beta   90.00615399
+_cell_angle_gamma   90.00637696
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cu
+_chemical_formula_sum   Cu27
+_cell_volume   1225.86394768
+_cell_formula_units_Z   27
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.00000100  0.70833300  0.43055600  1
+  Cu  Cu1  1  0.33333400  0.70833300  0.43055600  1
+  Cu  Cu2  1  0.66666700  0.70833300  0.43055600  1
+  Cu  Cu3  1  0.00000100  0.04166600  0.48611100  1
+  Cu  Cu4  1  0.33333400  0.04166600  0.48611100  1
+  Cu  Cu5  1  0.66666700  0.04166600  0.48611100  1
+  Cu  Cu6  1  0.00000392  0.37401568  0.54260450  1
+  Cu  Cu7  1  0.33334794  0.37401704  0.54260575  1
+  Cu  Cu8  1  0.66665989  0.37401601  0.54260533  1
+  Cu  Cu9  1  0.16666700  0.37500000  0.45833300  1
+  Cu  Cu10  1  0.50000000  0.37500000  0.45833300  1
+  Cu  Cu11  1  0.83333400  0.37500000  0.45833300  1
+  Cu  Cu12  1  0.16666444  0.70912283  0.51417529  1
+  Cu  Cu13  1  0.50000636  0.70911721  0.51417442  1
+  Cu  Cu14  1  0.83334838  0.70912273  0.51417549  1
+  Cu  Cu15  1  0.00001755  0.70322627  0.60036472  1
+  Cu  Cu16  1  0.33335465  0.70322390  0.60036452  1
+  Cu  Cu17  1  0.66667918  0.70322335  0.60036364  1
+  Cu  Cu18  1  0.00000229  0.04467480  0.65108119  1
+  Cu  Cu19  1  0.33334553  0.04468574  0.65107964  1
+  Cu  Cu20  1  0.66665839  0.04468420  0.65107889  1
+  Cu  Cu21  1  0.16665766  0.03536849  0.56971266  1
+  Cu  Cu22  1  0.49999884  0.03536244  0.56971108  1
+  Cu  Cu23  1  0.83334139  0.03536916  0.56971275  1
+  Cu  Cu24  1  0.16666867  0.37425458  0.62699855  1
+  Cu  Cu25  1  0.50001302  0.37426114  0.62700226  1
+  Cu  Cu26  1  0.83335693  0.37425526  0.62699893  1

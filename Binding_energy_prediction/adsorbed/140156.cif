@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_HPd27
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.25699600
+_cell_length_b   8.25682200
+_cell_length_c   23.35403400
+_cell_angle_alpha   89.99925057
+_cell_angle_beta   89.99908404
+_cell_angle_gamma   89.99983345
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HPd27
+_chemical_formula_sum   'Pd27 H1'
+_cell_volume   1592.19737858
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pd  Pd0  1  0.99999900  0.33333400  0.45909300  1
+  Pd  Pd1  1  0.00000000  0.66666500  0.45909400  1
+  Pd  Pd2  1  0.00000000  0.00000200  0.45909300  1
+  Pd  Pd3  1  0.33332900  0.33333400  0.45909400  1
+  Pd  Pd4  1  0.33332900  0.66666600  0.45909400  1
+  Pd  Pd5  1  0.33332900  0.00000100  0.45909400  1
+  Pd  Pd6  1  0.66666300  0.33333400  0.45909200  1
+  Pd  Pd7  1  0.66666300  0.66666600  0.45909300  1
+  Pd  Pd8  1  0.66666300  0.00000200  0.45909200  1
+  Pd  Pd9  1  0.16666300  0.16666600  0.37499900  1
+  Pd  Pd10  1  0.16666300  0.50000000  0.37499900  1
+  Pd  Pd11  1  0.16666300  0.83333300  0.37499900  1
+  Pd  Pd12  1  0.49999600  0.16666600  0.37499900  1
+  Pd  Pd13  1  0.49999600  0.50000000  0.37499900  1
+  Pd  Pd14  1  0.49999600  0.83333300  0.37499900  1
+  Pd  Pd15  1  0.83333000  0.16666600  0.37499900  1
+  Pd  Pd16  1  0.83333000  0.50000000  0.37499900  1
+  Pd  Pd17  1  0.83333000  0.83333300  0.37499900  1
+  Pd  Pd18  1  0.16612747  0.16613198  0.54320528  1
+  Pd  Pd19  1  0.16701304  0.49999041  0.54271212  1
+  Pd  Pd20  1  0.16612846  0.83385139  0.54320518  1
+  Pd  Pd21  1  0.49998839  0.16701715  0.54271073  1
+  Pd  Pd22  1  0.49998388  0.49998744  0.54957296  1
+  Pd  Pd23  1  0.49998871  0.83296434  0.54271126  1
+  Pd  Pd24  1  0.83384718  0.16613269  0.54320366  1
+  Pd  Pd25  1  0.83295928  0.49999080  0.54271132  1
+  Pd  Pd26  1  0.83384834  0.83385288  0.54320354  1
+  H  H27  1  0.49998549  0.49999192  0.61769072  1

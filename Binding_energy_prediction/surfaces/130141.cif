@@ -1,0 +1,53 @@
+# generated using pymatgen
+data_Ag26Pt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.60496519
+_cell_length_b   8.60496881
+_cell_length_c   23.47925300
+_cell_angle_alpha   90.00483404
+_cell_angle_beta   93.49762144
+_cell_angle_gamma   119.99565775
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ag26Pt
+_chemical_formula_sum   'Ag26 Pt1'
+_cell_volume   1501.93330901
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ag  Ag0  1  0.20000000  0.26666700  0.40000000  1
+  Ag  Ag1  1  0.20000000  0.60000000  0.40000000  1
+  Ag  Ag2  1  0.20000000  0.93333300  0.40000000  1
+  Ag  Ag3  1  0.53333300  0.26666700  0.40000000  1
+  Ag  Ag4  1  0.53333300  0.60000000  0.40000000  1
+  Ag  Ag5  1  0.53333300  0.93333300  0.40000000  1
+  Ag  Ag6  1  0.86666700  0.26666700  0.40000000  1
+  Ag  Ag7  1  0.86666700  0.60000000  0.40000000  1
+  Ag  Ag8  1  0.86666700  0.93333300  0.40000000  1
+  Ag  Ag9  1  0.33314079  0.16549130  0.50236578  1
+  Ag  Ag10  1  0.33313716  0.50098623  0.50236721  1
+  Ag  Ag11  1  0.33432858  0.83384332  0.50443736  1
+  Ag  Ag12  1  0.66774842  0.16672916  0.50349001  1
+  Ag  Ag13  1  0.66861801  0.50097469  0.50237286  1
+  Ag  Ag14  1  0.66774549  0.83434916  0.50348353  1
+  Ag  Ag15  1  0.00013043  0.16673443  0.50347972  1
+  Ag  Ag16  1  0.00095330  0.50047545  0.50443578  1
+  Ag  Ag17  1  0.00095738  0.83383942  0.50443111  1
+  Ag  Ag18  1  0.13754895  0.07017956  0.60697964  1
+  Ag  Ag19  1  0.13754522  0.40073861  0.60698416  1
+  Ag  Ag20  1  0.13497508  0.73418053  0.60752706  1
+  Ag  Ag21  1  0.46821769  0.07019123  0.60700311  1
+  Ag  Ag22  1  0.46820873  0.73137620  0.60699728  1
+  Ag  Ag23  1  0.80132345  0.06733783  0.60617943  1
+  Ag  Ag24  1  0.79877797  0.40074475  0.60700251  1
+  Ag  Ag25  1  0.79877462  0.73138743  0.60699184  1
+  Pt  Pt26  1  0.46629578  0.39982463  0.59856503  1

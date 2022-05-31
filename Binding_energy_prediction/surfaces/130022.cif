@@ -1,0 +1,53 @@
+# generated using pymatgen
+data_Au
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.57745306
+_cell_length_b   8.57952124
+_cell_length_c   25.48431000
+_cell_angle_alpha   89.99453055
+_cell_angle_beta   89.99330683
+_cell_angle_gamma   96.00496057
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Au
+_chemical_formula_sum   Au27
+_cell_volume   1865.11095498
+_cell_formula_units_Z   27
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Au  Au0  1  0.99998116  0.33334158  0.54411782  1
+  Au  Au1  1  0.99996591  0.66661662  0.54411982  1
+  Au  Au2  1  0.99999217  0.99999334  0.54410665  1
+  Au  Au3  1  0.33333358  0.33333531  0.54415056  1
+  Au  Au4  1  0.33334796  0.66659994  0.54414801  1
+  Au  Au5  1  0.33334059  0.99998244  0.54411750  1
+  Au  Au6  1  0.66659902  0.33334935  0.54414813  1
+  Au  Au7  1  0.66662990  0.66663074  0.54414934  1
+  Au  Au8  1  0.66661548  0.99996693  0.54411963  1
+  Au  Au9  1  0.16654427  0.16654512  0.62953625  1
+  Au  Au10  1  0.16655760  0.49989558  0.62951348  1
+  Au  Au11  1  0.16658653  0.83332903  0.62950773  1
+  Au  Au12  1  0.49989417  0.16655873  0.62951355  1
+  Au  Au13  1  0.49997334  0.49997513  0.62951574  1
+  Au  Au14  1  0.50000792  0.83336049  0.62951149  1
+  Au  Au15  1  0.83332689  0.16658847  0.62950786  1
+  Au  Au16  1  0.83335848  0.50001084  0.62951141  1
+  Au  Au17  1  0.83336815  0.83337170  0.62953073  1
+  Au  Au18  1  0.16666600  0.16666800  0.45833300  1
+  Au  Au19  1  0.16666600  0.50000100  0.45833300  1
+  Au  Au20  1  0.16666600  0.83333400  0.45833300  1
+  Au  Au21  1  0.50000000  0.16666800  0.45833300  1
+  Au  Au22  1  0.50000000  0.50000100  0.45833300  1
+  Au  Au23  1  0.50000000  0.83333400  0.45833300  1
+  Au  Au24  1  0.83333300  0.16666800  0.45833300  1
+  Au  Au25  1  0.83333300  0.50000100  0.45833300  1
+  Au  Au26  1  0.83333300  0.83333400  0.45833300  1

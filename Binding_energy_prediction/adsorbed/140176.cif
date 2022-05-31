@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_HAu27
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.57745306
+_cell_length_b   8.57952124
+_cell_length_c   25.48431000
+_cell_angle_alpha   89.99453055
+_cell_angle_beta   89.99330683
+_cell_angle_gamma   96.00496057
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HAu27
+_chemical_formula_sum   'H1 Au27'
+_cell_volume   1865.11095498
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Au  Au0  1  0.00180140  0.33149193  0.54378370  1
+  Au  Au1  1  0.99891469  0.66437493  0.54364703  1
+  Au  Au2  1  0.99627236  0.99627114  0.54462766  1
+  Au  Au3  1  0.33705498  0.33706224  0.54463646  1
+  Au  Au4  1  0.33448266  0.66891878  0.54363897  1
+  Au  Au5  1  0.33149086  0.00180872  0.54378291  1
+  Au  Au6  1  0.66891023  0.33448887  0.54363719  1
+  Au  Au7  1  0.66663746  0.66664311  0.53987286  1
+  Au  Au8  1  0.66437833  0.99891905  0.54364493  1
+  Au  Au9  1  0.16648675  0.16649028  0.62855883  1
+  Au  Au10  1  0.17279345  0.50037918  0.62851418  1
+  Au  Au11  1  0.16061409  0.83273309  0.62854218  1
+  Au  Au12  1  0.50037912  0.17279603  0.62851548  1
+  Au  Au13  1  0.50881851  0.50882923  0.63039616  1
+  Au  Au14  1  0.49004758  0.84324238  0.63038351  1
+  Au  Au15  1  0.83272632  0.16062300  0.62854394  1
+  Au  Au16  1  0.84321380  0.49003401  0.63038602  1
+  Au  Au17  1  0.82454822  0.82455487  0.63034999  1
+  Au  Au18  1  0.16666600  0.16666800  0.45833300  1
+  Au  Au19  1  0.16666600  0.50000100  0.45833300  1
+  Au  Au20  1  0.16666600  0.83333400  0.45833300  1
+  Au  Au21  1  0.50000000  0.16666800  0.45833300  1
+  Au  Au22  1  0.50000000  0.50000100  0.45833300  1
+  Au  Au23  1  0.50000000  0.83333400  0.45833300  1
+  Au  Au24  1  0.83333300  0.16666800  0.45833300  1
+  Au  Au25  1  0.83333300  0.50000100  0.45833300  1
+  Au  Au26  1  0.83333300  0.83333400  0.45833300  1
+  H  H27  1  0.66668690  0.66663937  0.65153248  1
