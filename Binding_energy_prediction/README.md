@@ -1,12 +1,8 @@
-## Tutorial: Predicting phonon DoS with Euclidean neural networks
-### 2021 MRS Fall Meeting | Symmetry-aware neural networks for the material sciences
+The following part is essentital to compile the e3nn codes. This ist aken from 
 
 This tutorial is presented through an interactive Jupyter notebook. We invite you to follow along with the code examples through either of the two options below:
 
-#### 1. Run in Google Colaboratory
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ninarina12/phononDoS_tutorial/blob/main/phononDoS_colab.ipynb)
-
-If you don't have access to a GPU or simply want to try out the code before installing anything locally, click the Colab badge above to run the notebook in Google Colaboratory. Package imports are handled within the notebook.
+https://github.com/zhantaochen/phonondos_e3nn
 
 #### 2. Work from a local installation
 To work from a local copy of the code:
